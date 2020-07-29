@@ -4,11 +4,12 @@ date = 2020-07-29T01:43:11-07:00
 title = "Money Manager"
 description = ""
 slug = "" 
-tags = []
-categories = []
+tags = ["webapp", "budgeting"]
+categories = ["cat1", "cat2", "cat3"]
 externalLink = ""
 gitHubLink = "https://github.com/silvazc/budgeting"
 series = []
+todo_items = ["Show examples of money calculations that I've done", "Talk about specific sections in detail"]
 +++
 
 ### What do I want this application to do?
@@ -23,3 +24,4 @@ series = []
 3. Progress made towards big purchases
 4. Page to set budgeting goals
 5. Page for doing scratchwork
+
