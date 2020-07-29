@@ -7,6 +7,7 @@ slug = ""
 tags = []
 categories = []
 externalLink = ""
+gitHubLink = "https://github.com/silvazc/budgeting"
 series = []
 +++
 

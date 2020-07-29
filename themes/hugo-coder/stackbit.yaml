@@ -175,6 +175,8 @@ models:
       - type: string
         name: externalLink
       - type: string
+        name: githubLink
+      - type: string
         name: description
       - type: boolean
         name: math

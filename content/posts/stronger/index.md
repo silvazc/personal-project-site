@@ -7,5 +7,6 @@ slug = ""
 tags = []
 categories = []
 externalLink = ""
+gitHubLink = "https://github.com/silvazc/Workout_App"
 series = []
 +++
